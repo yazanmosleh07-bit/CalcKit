@@ -44,7 +44,7 @@ If you get an error, Java isn't in your PATH — restart your PC and try again.
 ### Step 3 — Download CalcKit
 Download or clone this repo:
 ```bash
-git clone https://github.com/yourusername/CalcKit.git
+git clone https://github.com/yazanmosleh07-bit/CalcKit.git
 ```
 Or just download the ZIP and extract it.
  
